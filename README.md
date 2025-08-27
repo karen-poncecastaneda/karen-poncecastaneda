@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @karen-poncecastaneda
 - 👀 I’m interested in computer engineering 
-- 🌱 I’m currently learning how to code websites
+- 🌱 I’m currently learning how to code websites and learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Uinversity of Washington has always been my dream school
+- ⚡ Fun fact: I am a current student at the University of Washington!
 
 <!---
 karen-poncecastaneda/karen-poncecastaneda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
