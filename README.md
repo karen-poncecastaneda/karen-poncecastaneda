@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karen-poncecastaneda
-- 👀 I’m interested in computer engineering 
+- 👀 I’m interested in computer hardware engineering 
 - 🌱 I’m currently learning how to code websites and learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
